@@ -1,0 +1,28 @@
+{
+  "name": "vulnexpress",
+  "version": "1.0.0",
+  "description": "Intentionally vulnerable Express.js API for AppSec and penetration testing practice",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "express",
+    "appsec",
+    "cybersecurity",
+    "penetration-testing",
+    "api-security",
+    "owasp"
+  ],
+  "author": "Deepanshu Deswal",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^3.0.0",
+    "cors": "^6.0.0",
+    "express": "^5.0.0",
+    "express-rate-limit": "^8.0.0",
+    "helmet": "^8.0.0",
+    "jsonwebtoken": "^9.0.0",
+    "multer": "^2.0.0"
+  }
+}
