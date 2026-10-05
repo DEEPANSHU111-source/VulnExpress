@@ -129,12 +129,9 @@ uploads/
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/VulnExpress.git
+git clone https://github.com/DEEPANSHU111-source/VulnExpress.git
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
-
----
 
 ## 2. Enter the project
 
